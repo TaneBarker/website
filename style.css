@@ -1,0 +1,29 @@
+img{
+width: 250px;
+
+
+}
+body{
+text-align: left;
+
+background-color: black;
+
+}
+.menu{
+    display:flex white;
+    justify-content: space-between;
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-evenly;
+}
+.footer{
+bottom:0;
+justify-content: flex-end;
+display: flex;
+}
+#fb{
+width: 30px; height: 30px;
+}
